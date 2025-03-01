@@ -1,1 +1,1 @@
-# YelpProject_Beauty-Salon-Recommendation
+# yelp_Beauty&Salon-recommendations
